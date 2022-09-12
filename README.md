@@ -24,3 +24,11 @@ fghfdghdfghgfdhdfhdfhfdhfdhdfhfdhgfdhdfhgdghdgfhdgfhdgfhgfdhdfghfdhgdfghgfdhdfhd
  
  [Google](http://www.google.com)
  
+![Coche](https://github.com/JuanCarlosIzquierdo/RepositorioDePrueba/blob/main/450_1000.jpg)
+
+| Prueba | Columna | Tabla |
+|--------|:-------:|:-----:|
+| Nombre | Apellido | Apellido2 |
+| Nombre2 | Apellido3 | Apellido4 |
+| Col 1 | Está alineada | derecha |
+| Col 2 | Está alineada | centro |
